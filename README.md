@@ -37,7 +37,7 @@ This project implements a multi-step form with validation and dynamic pricing fe
 
 ## Demo
 
-You can view a live demo of the project [here](#). (Replace `#` with the link to your live demo)
+You can view a live demo of the project [here](https://multi-step-form-main-mocha.vercel.app/).
 
 Certainly! Here's the updated installation section that includes setting up Tailwind CSS using npm:
 
